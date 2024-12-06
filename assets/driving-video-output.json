@@ -1,0 +1,901 @@
+{
+  "annotation_results": [
+    {
+      "input_uri": "/share-demo-bucket/vision/driving-video.mp4",
+      "segment_label_annotations": [
+        {
+          "entity": {
+            "entity_id": "/m/0750y",
+            "description": "suburb",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.4300886
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0180xr",
+            "description": "neighbourhood",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.7658
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/02nfxt",
+            "description": "residential area",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.49810314
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0dx1j",
+            "description": "town",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.6681755
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/01k0mv",
+            "description": "road surface",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.6402604
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/017kvv",
+            "description": "infrastructure",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.4330359
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/033j3c",
+            "description": "lane",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.7197181
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0k4j",
+            "description": "car",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/07yv9",
+              "description": "vehicle",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.56643707
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0hr8",
+            "description": "asphalt",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.5616341
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0dnhy",
+            "description": "sidewalk",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/01n32",
+              "description": "city",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.39990738
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0cz_0",
+            "description": "highway",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.56282693
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/01jm2n",
+            "description": "walkway",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.43417633
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/01c8br",
+            "description": "street",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.9472787
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0r4kr10",
+            "description": "dashcam",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.38833195
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/07yv9",
+            "description": "vehicle",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.97442704
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/02mgm6",
+            "description": "shoulder",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.36974427
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/014mpm",
+            "description": "intersection",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/01c8br",
+              "description": "street",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.69236386
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/012f08",
+            "description": "motor vehicle",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/07yv9",
+              "description": "vehicle",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.73949987
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/06gfj",
+            "description": "road",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.9032463
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0btp2",
+            "description": "traffic",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.3974445
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/039jbq",
+            "description": "urban area",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/01n32",
+              "description": "city",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.55996436
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/07bsy",
+            "description": "transport",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.7747189
+            }
+          ]
+        }
+      ],
+      "shotLabelAnnotations": [
+        {
+          "entity": {
+            "entity_id": "/m/06gfj",
+            "description": "road",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.9030836
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/033j3c",
+            "description": "lane",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.7197181
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0btp2",
+            "description": "traffic",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.48688284
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0hr8",
+            "description": "asphalt",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.5616341
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0dnhy",
+            "description": "sidewalk",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/01n32",
+              "description": "city",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.39990738
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0cz_0",
+            "description": "highway",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.56282693
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/01jm2n",
+            "description": "walkway",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.43417633
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0k4j",
+            "description": "car",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/07yv9",
+              "description": "vehicle",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.56643707
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0180xr",
+            "description": "neighbourhood",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.7658
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/02nfxt",
+            "description": "residential area",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.49810314
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0dx1j",
+            "description": "town",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.6681755
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/01k0mv",
+            "description": "road surface",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.6402604
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/017kvv",
+            "description": "infrastructure",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.4330359
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/039jbq",
+            "description": "urban area",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/01n32",
+              "description": "city",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.5598109
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/07bsy",
+            "description": "transport",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.7747189
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0750y",
+            "description": "suburb",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/043rvww",
+              "description": "geographical feature",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.4300886
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/01c8br",
+            "description": "street",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.9472787
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/0r4kr10",
+            "description": "dashcam",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.38833195
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/07yv9",
+            "description": "vehicle",
+            "language_code": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.97699463
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/02mgm6",
+            "description": "shoulder",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/06gfj",
+              "description": "road",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.36974427
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/014mpm",
+            "description": "intersection",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/01c8br",
+              "description": "street",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.66485757
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entity_id": "/m/012f08",
+            "description": "motor vehicle",
+            "language_code": "en-US"
+          },
+          "category_entities": [
+            {
+              "entity_id": "/m/07yv9",
+              "description": "vehicle",
+              "language_code": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "start_time_offset": "0s",
+                "end_time_offset": "59.966666s"
+              },
+              "confidence": 0.73949987
+            }
+          ]
+        }
+      ],
+      "segment": {
+        "start_time_offset": "0s",
+        "end_time_offset": "59.966666s"
+      }
+    }
+  ]
+}
